@@ -1,4 +1,4 @@
-### 📄 README.md auf Deutsch
+### **🇩🇪 README.md auf Deutsch**
 
 markdown
 # 🛍️ Verkaufs- und Bestellverwaltungssystem
@@ -93,7 +93,7 @@ Wenn dir dieses Projekt gefällt oder du es erweitern möchtest, helfe ich dir g
 
 
 
-### 📄 README.md in English
+### **🇬🇧 README.md in English**
 
 markdown
 # 🛍️ Sales & Order Management System
