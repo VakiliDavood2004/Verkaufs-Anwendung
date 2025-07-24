@@ -1,7 +1,7 @@
-### **🇩🇪 README.md auf Deutsch**
+# **🇩🇪 README.md auf Deutsch**
 
 markdown
-# 🛍️ Verkaufs- und Bestellverwaltungssystem
+## 🛍️ Verkaufs- und Bestellverwaltungssystem
 
 Eine leistungsstarke Desktop-Anwendung zur Verwaltung von Bestellungen, Kunden, Produkten und Dienstleistungen mit einer modernen grafischen Benutzeroberfläche und integrierter Datenbank.  
 Entwickelt mit **Python**, **PyQt5** und **SQLite**.
@@ -93,10 +93,10 @@ Wenn dir dieses Projekt gefällt oder du es erweitern möchtest, helfe ich dir g
 
 
 
-### **🇬🇧 README.md in English**
+# **🇬🇧 README.md in English**
 
 markdown
-# 🛍️ Sales & Order Management System
+## 🛍️ Sales & Order Management System
 
 A powerful desktop application for managing orders, customers, products, and services with a modern graphical user interface and built-in database.  
 Developed using **Python**, **PyQt5**, and **SQLite**.
