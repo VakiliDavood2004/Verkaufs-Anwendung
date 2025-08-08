@@ -1,6 +1,6 @@
 # **🇩🇪 README.md auf Deutsch**
 
-markdown
+
 ## 🛍️ Verkaufs- und Bestellverwaltungssystem
 
 Eine leistungsstarke Desktop-Anwendung zur Verwaltung von Bestellungen, Kunden, Produkten und Dienstleistungen mit einer modernen grafischen Benutzeroberfläche und integrierter Datenbank.  
@@ -95,7 +95,7 @@ Wenn dir dieses Projekt gefällt oder du es erweitern möchtest, helfe ich dir g
 
 # **🇬🇧 README.md in English**
 
-markdown
+
 ## 🛍️ Sales & Order Management System
 
 A powerful desktop application for managing orders, customers, products, and services with a modern graphical user interface and built-in database.  
@@ -189,10 +189,6 @@ If you like this project or want to expand it, I’d be happy to help or collabo
 ---
 
 
-
-### 📄 فایل README.md به زبان فارسی
-
-markdown
 # 🛍️ سیستم مدیریت فروش و سفارش‌ها
 
 یک نرم‌افزار دسکتاپی قدرتمند برای مدیریت سفارش‌ها، مشتریان، محصولات و خدمات با رابط کاربری گرافیکی مدرن و پایگاه داده داخلی.  
@@ -280,5 +276,3 @@ python main.py
 - افزودن قابلیت ورود کاربران با رمز عبور و سطح دسترسی
 - ارسال فاکتور به ایمیل مشتری
 - طراحی نسخه موبایل با استفاده از Kivy یا Flutter
-
-
