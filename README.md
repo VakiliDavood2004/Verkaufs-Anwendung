@@ -77,7 +77,7 @@ python main.py
 ## 👨‍💻 Entwickler
 
 **Davood Vakili**  
-Wenn dir dieses Projekt gefällt oder du es erweitern möchtest, helfe ich dir gerne weiter oder arbeite mit dir zusammen. 😄
+Wenn dir dieses Projekt gefällt oder du es erweitern möchtest, helfe ich dir gerne weiter oder arbeite mit dir zusammen. 
 
 ---
 
@@ -173,7 +173,7 @@ python main.py
 ## 👨‍💻 Developer
 
 **Davood Vakili**  
-If you like this project or want to expand it, I’d be happy to help or collaborate with you. 😄
+If you like this project or want to expand it, I’d be happy to help or collaborate with you. 
 
 ---
 
@@ -266,7 +266,7 @@ python main.py
 ## 👨‍💻 توسعه‌دهنده
 
 **داوود وکیلی**  
-اگر این پروژه برایتان مفید بود یا قصد توسعه‌ی بیشتر آن را دارید، خوشحال می‌شوم در کنار شما باشم یا همکاری کنیم. 😄
+اگر این پروژه برایتان مفید بود یا قصد توسعه‌ی بیشتر آن را دارید، خوشحال می‌شوم در کنار شما باشم یا همکاری کنیم. 
 
 ---
 
